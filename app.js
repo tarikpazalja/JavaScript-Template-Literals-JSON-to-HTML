@@ -1,6 +1,6 @@
 const petsData = [
   {
-    name: "Purrsloud",
+    name: "Purrslouddd",
     species: "Cat",
     favFoods: ["wet food", "dry food", "<strong>any</strong> food"],
     birthYear: 2016,
